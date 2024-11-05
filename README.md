@@ -1,5 +1,9 @@
 # Hello, I'm Michael.
-<a href="https://www.linkedin.com/in/michael-friemel-473975150/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div>
+    <a href="https://www.linkedin.com/in/michael-friemel-473975150/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://docs.google.com/document/d/1yEhs9z1XM5g_3f-wgwXllaz_n8miyJ6D/edit?usp=sharing&ouid=113098165920670150387&rtpof=true&sd=true" />
+        <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white" /></a>
+</div>
 
 ## Introduction
 I am a System Administrator with a passion for solving complex problems utilizing technology.
