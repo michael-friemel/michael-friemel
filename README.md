@@ -1,16 +1,15 @@
 # Hello, I'm Michael.
 <div>
     <a href="https://www.linkedin.com/in/michael-friemel-473975150/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://docs.google.com/document/d/1yEhs9z1XM5g_3f-wgwXllaz_n8miyJ6D/edit?usp=sharing&ouid=113098165920670150387&rtpof=true&sd=true" />
-        <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white" /></a>
+    <a href="https://docs.google.com/document/d/116ztclu7getgRZbOXN62Os0W5ocNJF3q/edit?usp=sharing&ouid=113098165920670150387&rtpof=true&sd=true" download><img src="https://img.shields.io/badge/-View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white" alt="View Resume" /></a>
 </div>
 
 ## Introduction
-I am a System Administrator with a passion for solving complex problems utilizing technology.
+I am a system administrator passionate about solving complex problems by utilizing technology.
 
 ## Objective
 
-My experience and journey in computer science has given me a new-found passion for cybersecurity, specifically looking to transition into a Security Operations Center (SOC) as an Analyst. I am currently learning Blue Team and Penetration testing skills to build up my knowledge on defensive best-practices. 
+My experience and journey in computer science have given me a new-found passion for cybersecurity. I am specifically looking to transition into a Security Operations Center (SOC) as an Analyst. I am currently learning Blue Team and Penetration testing skills to build up my knowledge of defensive best practices. 
 
 ## Skills
 
@@ -24,7 +23,6 @@ My experience and journey in computer science has given me a new-found passion f
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
