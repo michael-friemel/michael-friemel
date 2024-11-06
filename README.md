@@ -55,4 +55,3 @@ My experience and journey in computer science have given me a new-found passion 
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- <a href="https://github.com/michael-friemel/Wireless-Network-Attack" />Wireless Network Attack</a>
