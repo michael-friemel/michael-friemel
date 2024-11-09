@@ -51,6 +51,13 @@ My experience and journey in computer science have given me a new-found passion 
     <img src="https://img.shields.io/badge/-VMware%20ESXi%20-607078?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware ESXi" />
 </div>
 
+## Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" />
+
+</div>
+
 ## Certifications
 <div>
         <img src="https://img.shields.io/badge/-CCNA-0061F2?style=for-the-badge&logo=Cisco&logoColor=white" />
