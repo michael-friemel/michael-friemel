@@ -39,8 +39,8 @@ My experience and journey in computer science have given me a new-found passion 
 
 ### SIEM
 <div>
+        <img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
 
 </div>
 
