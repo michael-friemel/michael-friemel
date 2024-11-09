@@ -55,6 +55,8 @@ My experience and journey in computer science have given me a new-found passion 
 ## Projects
 <div>
     <ul>
-        <a href="https://github.com/michael-friemel/Virtual-Network-Lab/tree/main">Virtual Network Project</a>
+        <li>
+            <a href="https://github.com/michael-friemel/Virtual-Network-Lab/tree/main">Virtual Network Project</a>
+        </li>
     </ul>
 </div>
