@@ -1,7 +1,7 @@
 # Hello, I'm Michael.
 <div>
     <a href="https://www.linkedin.com/in/michael-friemel-473975150/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://docs.google.com/document/d/116ztclu7getgRZbOXN62Os0W5ocNJF3q/edit?usp=sharing&ouid=113098165920670150387&rtpof=true&sd=true" download><img src="https://img.shields.io/badge/-View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white" alt="View Resume" /></a>
+    <a href="https://docs.google.com/document/d/1nlKq22EEYR988ofAFaBH7W7AvNrBDUdh/edit?usp=sharing&ouid=113098165920670150387&rtpof=true&sd=true" download><img src="https://img.shields.io/badge/-View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white" alt="View Resume" /></a>
 </div>
 
 ## Introduction
