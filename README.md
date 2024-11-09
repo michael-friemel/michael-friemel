@@ -25,6 +25,8 @@ My experience and journey in computer science have given me a new-found passion 
 <div>
     <img src="https://img.shields.io/badge/-pfSense-28373b?&style=for-the-badge&logo=pfSense&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+
     
 </div>
 
