@@ -52,9 +52,9 @@ My experience and journey in computer science have given me a new-found passion 
 
 ## Certifications
 <div>
+        <img src="https://img.shields.io/badge/-CCNA-0061F2?style=for-the-badge&logo=Cisco&logoColor=white" />
     <a href="https://www.credly.com/badges/cfc38044-3dec-48d1-ac55-070edbf01c34/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certification" />
-        <img src="https://img.shields.io/badge/-CCNA-0061F2?style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
 </div>
 
