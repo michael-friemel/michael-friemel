@@ -31,9 +31,10 @@ My experience and journey in computer science have given me a new-found passion 
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
 ### SIEM
