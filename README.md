@@ -53,5 +53,6 @@ My experience and journey in computer science have given me a new-found passion 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+<div>
+    <a href="https://github.com/michael-friemel/Virtual-Network-Lab/tree/main">- Virtual network Project</a>
+</div>
